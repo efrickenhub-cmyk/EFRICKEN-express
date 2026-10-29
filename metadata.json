@@ -1,0 +1,10 @@
+{
+  "name": "Efricken Express",
+  "description": "Comprehensive courier and parcel delivery management platform featuring real-time tracking, dispatch management, rider app, configurable pricing, and M-Pesa integration.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
